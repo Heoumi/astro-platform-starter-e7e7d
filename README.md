@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+Heoumi
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
